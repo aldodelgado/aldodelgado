@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-I'm Aldo, a full stack software developer with a focus on creating smart, usable applications with a superior design that is built on a foundation of clean, maintainable code. I am well rounded with experience in both developing applications and management of servers.
+I'm Aldo, a full stack software developer with a focus on creating smart, usable applications with a superior design that is built on a foundation of clean, maintainable code. I am well rounded with experience in both developing applications and management of servers with a security first approach.
 
 ## 🏆 Certifications
 [![](https://images.credly.com/size/200x200/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](https://www.credly.com/badges/837010d3-46e6-47d1-a286-4f7784e0cb9a)
